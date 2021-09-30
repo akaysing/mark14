@@ -1,0 +1,22 @@
+body {
+    background-color: #140b17;
+    text-align: center;
+    color: white;
+}
+
+label {
+    display: block;
+    padding-bottom: 1rem;
+}
+
+#output-box{
+    padding: 1rem;
+}
+
+button {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    outline: none;
+    background-color: blue;
+    color: white;
+}
